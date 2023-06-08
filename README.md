@@ -1,6 +1,6 @@
 # Bagpipes
 
-### NOTE: THIS IS PRE-RELEASE SOFTWARE - SUBJECT TO CHANGE ###
+### FORK FROM https://github.com/apigee-127/bagpipes.git v0.0.6 but with support for NodeJs > 10 ###
 
 ** Quick Reference links: **
 

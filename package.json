@@ -1,5 +1,5 @@
 {
-  "name": "bagpipes",
+  "name": "bagpipes-fixed",
   "version": "0.0.6",
   "description": "Less code, more flow. Let's dance!",
   "main": "lib/index.js",
