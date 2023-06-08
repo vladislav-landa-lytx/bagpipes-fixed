@@ -1,6 +1,6 @@
 {
   "name": "bagpipes-fixed",
-  "version": "0.0.6",
+  "version": "1.0.0",
   "description": "Less code, more flow. Let's dance!",
   "main": "lib/index.js",
   "scripts": {
